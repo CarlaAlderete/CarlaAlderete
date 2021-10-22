@@ -22,5 +22,5 @@
 
 <div width = "90%" align="center">
 <img width = "45%" src= "https://github-readme-stats.vercel.app/api?username=CarlaAlderete&show_icons=true&include_all_commits=true&theme=monokai" alt="CarlaAlderete" />
-<img width = "45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlaAlderete&layout=compact&theme=monokai&langs_count=6" alt="CarlaAlderete" />
+<img width = "45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlaAlderete&layout=compact&theme=monokai&langs_count=4" alt="CarlaAlderete" />
 </div>
